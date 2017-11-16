@@ -41,11 +41,27 @@ html {
     }
 
     /* Default size: /1500x1500 */
-    .panel1 { background-image:url(https://source.unsplash.com/random/1500x1500); }
-    .panel2 { background-image:url(https://source.unsplash.com/random/800x600); }
-    .panel3 { background-image:url(https://source.unsplash.com/random/); }
-    .panel4 { background-image:url(https://source.unsplash.com/random/800x600); }
-    .panel5 { background-image:url(https://source.unsplash.com/random/1500x1500); }
+    .panel1 {
+      background-image: url(https://source.unsplash.com/random/1500x1500);
+    }
+    
+    .panel2 {
+      background-image: url(https://source.unsplash.com/random/800x600);
+    }
+
+    .panel3 {
+      background-image: url(https://source.unsplash.com/random/);
+    }
+
+    .panel4 {
+      background-image: url(https://source.unsplash.com/random/800x600);
+    }
+
+    .panel5 {
+      background-image: url(https://source.unsplash.com/random/1500x1500);
+    }
+
+    
 
       /* FLex items */
     .panel > * {
